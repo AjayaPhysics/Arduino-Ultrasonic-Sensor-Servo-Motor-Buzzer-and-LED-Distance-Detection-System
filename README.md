@@ -1,0 +1,2 @@
+# Arduino-Ultrasonic-Sensor-Servo-Motor-Buzzer-and-LED-Distance-Detection-System
+This project uses an HC-SR04 ultrasonic sensor to measure the distance of an object. If an object is detected within a specific range (e.g., 10 cm), the SG90 servo motor rotates to 90 degrees, the piezo buzzer beeps, and an LED lights up. This project is suitable for beginners learning how to use sensors and actuators with Arduino.
